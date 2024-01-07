@@ -1,5 +1,6 @@
 # Incorporate_Syntax_and_semantic_for_coreference
 Bachelor thesis in HUST
+
 This repo get from the  source codes of two paper:
 
   1. Incorporating Syntax and Semantics in Coreference Resolution with Heterogeneous Graph Attention Network
