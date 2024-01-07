@@ -1,4 +1,4 @@
-# Incorporate_Syntax_and_semantic_for_coreference
+# Incorporate_Syntax_and_semantic_for_coreference_resolution
 Bachelor thesis in HUST
 
 This repo get from the  source codes of two paper:
