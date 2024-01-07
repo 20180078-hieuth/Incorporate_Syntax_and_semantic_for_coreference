@@ -1,0 +1,2 @@
+# Incorporate_Syntax_and_semantic_for_coreference
+Bachelor thesis in HUST
